@@ -16,7 +16,7 @@ The **WCF Web Service Reference** tool is a Visual Studio connected service exte
 
 ## Prerequisites
 
-- [Visual Studio 2017 version 15.5](https://aka.ms/vsdownload?utm_source=mscom&utm_campaign=msdocs) or a later version
+- [Visual Studio 2022 version 17.5](https://aka.ms/vsdownload?utm_source=mscom&utm_campaign=msdocs) or a later version
 
 The screenshots in this article are from Visual Studio 2022.
 
